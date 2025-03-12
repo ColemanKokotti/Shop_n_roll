@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:shop_n_roll/Widgets/itemListWidgets/undo_button_widget.dart';
-import '../../Bloc_Cubit/BuyedCubit/bought_item_cubit.dart';
+import '../../Bloc_Cubit/BoughtItemCubit/bought_item_cubit.dart';
 import '../../Bloc_Cubit/ItemListCubit/item_list_state.dart';
 import 'icon_selector_button.dart';
 import '../../Data/data_items.dart';
